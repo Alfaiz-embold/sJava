@@ -150,33 +150,7 @@
         transform: translate(-50%, -50%);
         text-align: center;
     }
-
-    .icon_Description {
-        background: rgba(255, 187, 0, 0.12);
-        border-radius: 16px;
-        padding: 16px;
-        display: flex;
-        // width: 81%;
-        text-align: center;
-        margin: 0px 55px 16px 55px;
-    }
-
-    .DGH {
-        color: black;
-        font-size: 24px;
-        font-weight: 800;
-        text-transform: capitalize;
-        word-wrap: break-word;
-        margin-bottom: 24px;
-        text-align: center;
-    }
-
-    .nextStep {
-        color: #444444;
-        font-size: 14px;
-        font-weight: 700;
-        text-align: center;
-    }
+\
 
     .medicalCheckUp {
         color: #444444;
